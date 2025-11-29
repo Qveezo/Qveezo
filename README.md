@@ -12,15 +12,15 @@
   <a href="https://t.me/GiperVice">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://u.wechat.com/kJnoCRmMDpHTYgcL8kJfLLE" align="center">
-    <img src="https://img.shields.io/badge/Wechat-green?style=for-the-badge&logo=Wechat&logoColor=white" alt="Wechat Badge"/>
+  <a href="https://t.me/GiperVice">
+    <img src="https://img.shields.io/badge/Discord%3A-v.v1ce-%23333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%23333333" alt="Discord Badge"/>
   </a>
 </div>
 
 <h3 align="left"> ✌ About me:</h3>
 <div id="badges" align="center">
-    <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoSize=200" alt="Python Badge"/></a>
     <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus" alt="Cpp Badge"/></a>
+    <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoSize=200" alt="Python Badge"/></a>
     <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoSize=200" alt="Html5 Badge"/></a>
     <a><img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css" alt="Css Badge"/></a>
     <a><img src="https://img.shields.io/badge/Tilda-FFA282?style=flat&logo=tildapublishing&logoColor=white&logoSize=200" alt="Tilda Badge"/></a>
@@ -42,7 +42,8 @@ C++
 https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus
 Tilda
 https://img.shields.io/badge/Tilda-FFA282?style=flat&logo=tildapublishing&logoColor=white&logoSize=200
-
+Discord
+https://img.shields.io/badge/Discord%3A-v.v1ce?logo=discord&labelColor=%235865F2&color=%23333333
 
     ul {
       list-style: none; /* Убирает маркеры списка */
@@ -53,7 +54,12 @@ https://img.shields.io/badge/Tilda-FFA282?style=flat&logo=tildapublishing&logoCo
       margin-right: 10px; /* Добавляет отступ между элементами */
     }
 
-
+  <a href="https://u.wechat.com/kJnoCRmMDpHTYgcL8kJfLLE" align="center">
+    <img src="https://img.shields.io/badge/Wechat-green?style=for-the-badge&logo=Wechat&logoColor=white" alt="Wechat Badge"/>
+  </a>
+  <a href="https://vk.com/krytoichel8882" align="center">
+    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vk Badge"/>
+  </a>
 
 
 Here are some ideas to get you started:
