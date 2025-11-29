@@ -1,6 +1,6 @@
 
 
-## Hi there 👋
+
 <h1 align="center">Hey <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30"> I'm Valeriy!</h1>
 
 
@@ -12,12 +12,22 @@
   <a href="https://t.me/GiperVice">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/GiperVice">
+  <a href="">
     <img src="https://img.shields.io/badge/Discord%3A-v.v1ce-%23333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%23333333" alt="Discord Badge"/>
   </a>
 </div>
 
-<h3 align="left"> ✌ About me:</h3>
+<hr>
+
+<h3 align="left">✌ About me:</h3>
+<div id="about_me" align="left">
+    <p>I am a first-year student at RTU MIREA</p>
+</div>
+
+
+<hr>
+
+<h3 align="left">🚀 My tech stack:</h3>
 <div id="badges" align="center">
     <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus" alt="Cpp Badge"/></a>
     <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoSize=200" alt="Python Badge"/></a>
